@@ -1,27 +1,45 @@
+.div_speed
+{
+    float: left;
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_volume
+{
+    float: right;
+}
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
 .heading
 {
     font-size: 23px;
     width: 100%;
     margin: 0px;
-    box-shadow: 5px 5px 5px grey;
 }
-.note
+.play_button
 {
-    font-size: 15px;
-    color: #000;
+    width: 130px;
+    font-size: 25px;
 }
-.copy_right_footer {
-    position: fixed;
-    color: #ffff;
-    bottom: 0;
-    width: 100%;
-    background-color: grey;
-    line-height: 3;
-    text-align: center;
-}
-canvas
-{
-    border: 5px solid white;
-    border-radius: 20px;
-    box-shadow: 5px 5px 5px gray;
-}
+    canvas
+    {
+        border: 5px solid white;
+        border-radius: 20px;
+    }
+    
